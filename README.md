@@ -1,6 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28762010/README.md)
-# gym-membership-churn-prediction
-ML project predicting gym membership churn using Random Forest (94.13% accuracy) | SMOTE · StandardScaler · scikit-learn
+[README (1).md](https://github.com/user-attachments/files/28770302/README.1.md)
 # 🏋️ Gym Membership Churn Prediction
 
 > A machine learning project that predicts whether a gym member will cancel their membership.  
@@ -144,8 +142,4 @@ gym-churn-prediction/
 
 ## 👥 Team
 
-| Name | Student ID |
-|---|---|
-| Wei Han Lee | 41738562 |
-| Kittinat Tongmai | 92558420 |
-| Jihye Kim | 86485271 |
+Wei Han Lee · Kittinat Tongmai · Jihye Kim
